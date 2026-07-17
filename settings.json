@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xedt.aternos.me",
-    "port": 49977,
-    "version": "1.20.1",
+    "ip": "",
+    "port": ,
+    "version": "",
     "try-creative": false
   },
   "position": {
